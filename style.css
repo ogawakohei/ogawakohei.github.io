@@ -87,7 +87,7 @@ ol{
     width: 100%;
     height:100%;
     transition: all 1s;
-    background-color: #fff;
+    background-color: rgb(62, 228, 250);
 
     position: fixed;
     top: 152px;
