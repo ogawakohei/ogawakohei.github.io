@@ -7,9 +7,9 @@ body{
 
 }
 img{
-    width: inherit\9;
-    max-width: 100%\9;
-    height: auto\9;
+    max-width:100%;
+    height:auto;
+    vertical-align:bottom;
 }
 a{
     text-decoration:none;
@@ -481,17 +481,6 @@ input:focus {
         transition: .3s;
     }
 
-    /* load */
-
-    #loading{
-        top:0;
-        left: 230px;
-    }
-    .spinner{
-        position: absolute;
-        top:28%;
-        left:36%;
-    }
     /* --- */
 
     .top-visual{
